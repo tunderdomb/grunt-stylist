@@ -1,0 +1,30 @@
+{
+  "name": "grunt-stylist",
+  "version": "1.0.1",
+  "description": "Grunt plugin for stylist",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tunderdomb/grunt-stylist.git"
+  },
+  "keywords": [
+    "css",
+    "generate",
+    "extract",
+    "selector",
+    "stylesheet",
+    "style",
+    "gruntplugin"
+  ],
+  "author": "tunderdomb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tunderdomb/stylist/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "chai": "~1.9.0"
+  },
+  "dependencies": {
+    "stylist": "~1.0.2"
+  }
+}

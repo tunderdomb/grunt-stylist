@@ -1,4 +1,4 @@
-var stylist = require("../stylist")
+var stylist = require("stylist")
 var path = require("path")
 
 module.exports = function ( grunt ){
