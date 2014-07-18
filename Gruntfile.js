@@ -6,12 +6,11 @@ module.exports = function ( grunt ){
         options: {
           classes: true,
           ids: true,
-          data: true,
-          ignore: "test/style/globals/*.less"
+          data: true
         },
         expand: true,
-        cwd: "test/markup/",
-        src: "*.html",
+        cwd: "test/view/",
+        src: "**/*.dust",
         dest: "test/style/",
         ext: ".css"
       }

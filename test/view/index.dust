@@ -1,0 +1,8 @@
+{>"layout/page"/}
+{<content}
+  <div class="hey">
+    <div class="ho"></div>
+    <div class="ho"></div>
+    <div class="ho"></div>
+  </div>
+{/content}

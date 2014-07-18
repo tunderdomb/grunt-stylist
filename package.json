@@ -1,6 +1,6 @@
 {
   "name": "grunt-stylist",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Grunt plugin for stylist",
   "repository": {
     "type": "git",
@@ -21,10 +21,9 @@
     "url": "https://github.com/tunderdomb/stylist/issues"
   },
   "devDependencies": {
-    "grunt": "~0.4.2",
-    "chai": "~1.9.0"
+    "grunt": "~0.4.2"
   },
   "dependencies": {
-    "stylist": "~1.0.2"
+    "stylist": "1.0.3"
   }
 }

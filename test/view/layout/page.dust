@@ -1,0 +1,45 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Hello</title>
+</head>
+<body>
+
+<header id="header" class="asd asd asd qwe qwe qwe qw">
+  <div class="logo"></div>
+  <nav class="navigation">
+    <ul>
+      <li class="menu-item">
+        <a class="menu-link" href=""></a>
+      </li>
+      <li class="menu-item">
+        <a class="menu-link" href=""></a>
+      </li>
+      <li class="menu-item">
+        <a class="menu-link" href=""></a>
+      </li>
+      <li class="menu-item">
+        <a class="menu-link" href=""></a>
+      </li>
+    </ul>
+  </nav>
+</header>
+<main>
+  <aside class="sidebar">
+    <menu class="menu">
+      <button class="btn"></button>
+      <button class="btn"></button>
+      <button class="btn"></button>
+      <button class="btn"></button>
+    </menu>
+  </aside>
+  <div id="content">
+    {+content}{/content}
+  </div>
+</main>
+<footer id="footer">
+  <div class="credits"></div>
+</footer>
+
+</body>
+</html>
